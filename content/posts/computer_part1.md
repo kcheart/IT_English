@@ -16,7 +16,7 @@ draft = false
 		- Storage 儲存
 			- HDD 硬碟
 			- SDD 固態硬碟
-		- Input & Output 數入/輸出
+		- Input & Output 輸入/輸出
 			- Keyboard 鍵盤
 			- Mouse 滑鼠
 			- Touch pad 觸控面板
@@ -37,7 +37,7 @@ draft = false
     - This application on my phone helps me track my exercise routine.
     - 我手機上的這個應用程式幫助我追蹤運動計畫。
 
-- operating system 作業系統
+- operating system (OS) 作業系統
     - I upgraded my operating system to the latest version.
     - 我升級了作業系統到最新版本。
 
